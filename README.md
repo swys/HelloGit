@@ -5,9 +5,10 @@
 Now here is a list of my favorite fruits : 
 
 * Apples
-* Banana
+* Bananas
 * Plums
 * Peaches
+* Oranges
 
 #Now let's bust out some code :
 
