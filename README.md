@@ -9,6 +9,7 @@ Now here is a list of my favorite fruits :
 * Plums
 * Peaches
 * Oranges
+* Mangos
 
 #Now let's bust out some code :
 
